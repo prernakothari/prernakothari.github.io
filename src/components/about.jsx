@@ -39,15 +39,16 @@ export default class About extends Component {
                                         <i className="icon-bulb" />
                                     </span>
                                     <div className="desc">
-                                        <h3>Web Development </h3>
-                                        <p>I have experience building full stack web applications using React, Redux, HTML, CSS</p>
+                                        <h3>Software Development</h3>
+                                        <p>I have worked as an Associate Consultant at Oracle Financial Services Software for 2+ years </p>
+                                        <p>Javascript, Java, Node.js, Bootstrap, GCP, Firebase, AWS, NPM, Jest, Tensorflow, Git, MySQL, FCDB@(Flexcube Direct Banking), XML, J2EE, JBoss EAP</p>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-md-4 text-center animate-box">
                                 <div className="services color-3">
                                     <span className="icon">
-                                        <i className="icon-phone3" />
+                                        <i className="icon-data" />
                                     </span>
                                     <div className="desc">
                                         <h3>Data Structures & Algorithms</h3>
@@ -58,11 +59,11 @@ export default class About extends Component {
                             <div className="col-md-4 text-center animate-box">
                                 <div className="services color-5">
                                     <span className="icon">
-                                        <i className="icon-data" />
+                                        <i className="icon-phone3" />
                                     </span>
                                     <div className="desc">
-                                        <h3>FinTech</h3>
-                                        <p>I have worked as an Associate Consultant at Oracle Financial Services Software for 2+ years</p>
+                                        <h3>Web Development </h3>
+                                        <p>I have experience building full stack web applications using React, Redux, HTML, CSS</p>
                                     </div>
                                 </div>
                             </div>
