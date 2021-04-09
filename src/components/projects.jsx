@@ -44,7 +44,8 @@ export default class Projects extends Component {
 											<h3><a href="https://motiongenpro.appspot.com/" target="_blank">MotionGen-Pro</a></h3>
 											<span>Full-stack web application for a novel Robotics design ecosystem</span>
 											<p className="icon">
-												<span><a href="https://motiongenpro.appspot.com/" target="_blank"><i className="icon-link" /> link</a></span>
+												<span><a href="https://motiongenpro.appspot.com/" target="_blank"><i className="icon-link" /> app</a></span>
+												<span><a href="https://www.snappyxo.com/motiongen-pro/" target="_blank"><i className="icon-link" /> blog</a></span>
 											</p>
 										</div>
 									</div>
@@ -83,7 +84,7 @@ export default class Projects extends Component {
 											<h3><a href="https://prernakothari.github.io/dog-finder/"></a>Dog Finder</h3>
 											<span>Hobby Project</span>
 											<p className="icon">
-												<span><a href="https://prernakothari.github.io/dog-finder/"><i className="icon-link" /> link</a></span>
+												<span><a href="https://prernakothari.github.io/dog-finder/"><i className="icon-link" /> app</a></span>
 												<span><a href="https://github.com/prernakothari/dog-finder"><i className="icon-code" /> source</a></span>
 											</p>
 										</div>
